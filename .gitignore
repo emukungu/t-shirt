@@ -1,0 +1,4 @@
+# dependency modules
+node_modules/**
+
+yarn.lock
